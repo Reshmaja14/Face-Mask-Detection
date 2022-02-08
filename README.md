@@ -1,4 +1,4 @@
-# Custom Vision Export Object Detection Models
+# Face-Mask Detection
 This model is exported from [Custom Vision Service](https://customvision.ai)
 
 ## Input specification
