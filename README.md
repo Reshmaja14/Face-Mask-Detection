@@ -1,6 +1,9 @@
 # Face-Mask Detection
 This model is exported from [Custom Vision Service](https://customvision.ai)
 
+# Demo Video Link
+https://drive.google.com/drive/u/1/folders/1yFKUKtgRNRqY5PKlIKq-bd3Z5Jn0ahwt 
+
 ## Input specification
 This model expects 320x320, 3-channel RGB images. Pixel values need to be in the range of [0-255].
 
